@@ -1,0 +1,1 @@
+console.log(Math.floor(window.innerWidth / 60) * Math.floor(window.innerHeight / 60));
